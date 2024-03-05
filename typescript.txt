@@ -1,0 +1,5 @@
+What is typescript?
+well typescript is the organized and disciplined version of javascript
+1)statically typed
+in typescript if you declared a number and doesnot initialize it
+typscript gives it the data type of any
